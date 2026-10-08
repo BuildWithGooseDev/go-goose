@@ -1,0 +1,6 @@
+# Built example binary
+/example/example
+/example/main
+
+# Local example config
+/example/.env
