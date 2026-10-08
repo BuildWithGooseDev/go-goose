@@ -17,7 +17,7 @@ import (
 	"syscall"
 	"time"
 
-	goose "github.com/connormullett/goose/sdks/go"
+	goose "github.com/BuildWithGooseDev/go-goose"
 )
 
 // deltaLogger is a StorageAdapter that prints flag deltas once enabled, used to

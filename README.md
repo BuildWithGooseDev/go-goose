@@ -13,13 +13,13 @@ It has **no third-party dependencies** (standard library only).
 ## Install
 
 ```bash
-go get github.com/connormullett/goose/sdks/go
+go get github.com/BuildWithGooseDev/go-goose
 ```
 
 Import it as `goose`:
 
 ```go
-import goose "github.com/connormullett/goose/sdks/go"
+import goose "github.com/BuildWithGooseDev/go-goose"
 ```
 
 > The module lives in this monorepo and is intentionally **not** part of the Go
